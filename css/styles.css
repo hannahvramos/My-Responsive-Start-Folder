@@ -348,6 +348,10 @@ header h1 {
   font-size: 1.2rem;
   font-weight: 400;
 }
+header .tel {
+  color: #333;
+  text-align: end;
+}
 
 #navWrapper {
   background-color: rgb(131, 216, 224);
