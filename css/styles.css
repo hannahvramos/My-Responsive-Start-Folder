@@ -376,7 +376,7 @@ nav a:hover {
   color: rgb(255, 255, 255);
 }
 
-section {
+#mainWrapper section {
   display: grid;
   grid-template-columns: 1fr;
 }
