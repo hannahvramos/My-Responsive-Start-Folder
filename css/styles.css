@@ -354,7 +354,7 @@ header a .tel {
 }
 
 #navWrapper {
-  background-color: rgb(131, 216, 224);
+  background-color: rgb(103, 103, 103);
 }
 
 nav ul {
@@ -378,20 +378,6 @@ nav a {
 }
 nav a:hover {
   color: rgb(255, 255, 255);
-}
-
-section {
-  display: grid;
-  grid-template-columns: 1fr;
-}
-
-section div {
-  width: 100%;
-  padding: 1rem 16px;
-}
-section div img {
-  width: 100%;
-  height: auto;
 }
 
 #footerWrapper {
