@@ -348,7 +348,7 @@ header h1 {
   font-size: 1.2rem;
   font-weight: 400;
 }
-header .tel {
+header a .tel {
   color: #333;
   text-align: end;
 }
